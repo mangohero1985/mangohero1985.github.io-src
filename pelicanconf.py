@@ -52,7 +52,7 @@ DEFAULT_PAGINATION = 10
 RELATIVE_URLS = False
 
 PATH = 'content'
-OUTPUT_PATH = 'output'
+OUTPUT_PATH = '../mangohero1985.github.io/'
 THEME = "pelican-cait1"
 
 # static paths will be copied under the same name
