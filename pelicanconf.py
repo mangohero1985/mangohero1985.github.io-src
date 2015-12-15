@@ -4,8 +4,8 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Mangohero'
 SITENAME = u'MACHINE LEARING NOTE'
-SITEURL = 'http://mangohero1985.github.io'
-SITESUBTITLE = "Mango & Little Friend"
+SITEURL = 'http://mangohero1985.github.io/'
+SITESUBTITLE = ''
 GITHUB_USERNAME = 'mangohero1985'
 GITHUB = 'https://github.com/'+GITHUB_USERNAME
 GITHUB_SITE = 'https://github.com/'+GITHUB_USERNAME+'/'+'mangohero1985.github.io'
@@ -52,7 +52,7 @@ DEFAULT_PAGINATION = 10
 RELATIVE_URLS = False
 
 PATH = 'content'
-OUTPUT_PATH = 'output'
+OUTPUT_PATH = '../mangohero1985.github.io/'
 THEME = "pelican-cait1"
 
 # static paths will be copied under the same name
