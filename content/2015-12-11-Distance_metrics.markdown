@@ -6,7 +6,6 @@ Authors: Mango
 Modified: 2015/12/15
 Tags: Unsupervised, Clustering
 Summary:  We are intruducing some distance metrics which are commonly used on measure similarity in machine learning.
-<<<<<<< HEAD
 
 ## Metrics Space
 Given a set ***X***, ***X*** is a metirc space if it keeps to a function ***d(x,y)*** that can measure the distance between any two points ***x*** , ***y*** in space of ***X***. Then, ***d*** must satisfy the axioms of the metrics:
